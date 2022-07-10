@@ -1,0 +1,75 @@
+.title h3 {
+    text-align: center;
+    color: black;
+    margin-top: 90px;
+    font-size: 30px;
+    font-family: 'Chiller';
+}
+
+.container {
+    width: 450px;
+    margin: auto;
+}
+
+.wrap {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px;
+    margin: auto;
+}
+
+.wrap label {
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Demi';
+}
+
+.wrap input {
+    padding: 15px;
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 8px;
+    box-sizing: border-box;
+    background-color: #f3f3f3;
+    border: 1px solid #c4c4c4;
+    margin-top: 5px;
+}
+
+.wrap select {
+    padding: 10px;
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+.wrap textarea {
+    /* padding: 10px;
+    width: 100%;
+    margin-top: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    resize: none; */
+    width: 100%;
+    box-sizing: border-box;
+    padding: 8px;
+    background-color: #f3f3f3;
+    border: 1px solid #c4c4c4;
+    border-radius: 8px;
+    margin-top: 5px;
+    resize: none;
+    height: 100px;
+}
+
+.wrap button {
+    color: white;
+    text-decoration: none;
+    background-color: orangered;
+    padding-top: 4px;
+    padding-bottom: 4px; 
+    padding-right: 23px;
+    padding-left: 23px;
+    border-radius: 5px;
+    margin: 5px;
+    margin-right: 5px;
+}
